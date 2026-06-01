@@ -2,4 +2,6 @@
 name = "q-learning-maze-rl"
 version = "0.1.0"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.2.0",
+]
